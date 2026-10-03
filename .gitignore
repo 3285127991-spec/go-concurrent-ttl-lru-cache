@@ -1,4 +1,1 @@
 .gocache/
-*.exe
-*.test
-coverage.out
